@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Software engineering researcher specializing in AI-driven
   testing strategies for the automotive industry.
 github_username: Simon-Hi5
-minimal_mistakes_skin: air
+minimal_mistakes_skin: "air"
 search: true
 locale: "en"
 url: "https://simonhirner.de"
@@ -69,7 +69,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Simon-Hi5"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/simon-hirner"
 
@@ -81,7 +81,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Simon-Hi5"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/simon-hirner"
 
