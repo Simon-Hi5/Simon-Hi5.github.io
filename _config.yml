@@ -330,5 +330,17 @@ defaults:
       share: false
       related: false
       show_date: false
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
 
 date_format: "%d.%m.%Y"
