@@ -7,4 +7,4 @@ redirect_from:
   - /about
 ---
 
-I'm a software engineer and researcher passionate about AI-driven testing and data analysis in the automotive industry. With a strong foundation in software engineering and hands-on experience in machine learning, embedded systems, and large-scale software testing, I thrive at the intersection of research and industry. I enjoy solving complex problems, building intelligent systems, and continuously pushing the boundaries of innovation. When I'm not working or learning, you'll find me training for triathlons.
+I'm Simon, a software engineering student with a genuine interest in research and emerging technologies. I enjoy tackling new challenges and learning from each experience. With a solid foundation in software engineering and practical skills in artificial intelligence, data analysis, and software testing, I focus on bridging academic insights with real-world applications. When I'm not working or studying, you'll find me training for triathlons.

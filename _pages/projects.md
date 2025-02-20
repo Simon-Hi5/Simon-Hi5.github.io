@@ -1,10 +1,12 @@
 ---
-layout: single
+layout: collection
 title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
   - /portfolio
+collection: projects
+sort_by: order
 ---
 
-This page is currently under construction.
+Here you'll find a selection of my work and recent programming projects.

@@ -115,7 +115,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineering Researcher"
+  bio              : "Software Engineering Student" # "PhD Candidate | AI-Based Testing | Software Engineer"
   location         : "Munich"
   employer         : # e.g. "Red Brick University"
   links:
@@ -134,6 +134,15 @@ author:
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0009-0009-4995-4079"
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  research:
+    output: true
+    permalink: /research/:path/
 
 # Site Footer
 footer:
@@ -304,7 +313,35 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
+      show_date: false
+
+
+date_format: "%d.%m.%Y"
