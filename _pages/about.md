@@ -7,4 +7,4 @@ redirect_from:
   - /about
 ---
 
-I'm Simon, a software engineering student with a genuine interest in research and emerging technologies. I enjoy tackling new challenges and learning from each experience. With a solid foundation in software engineering and practical skills in artificial intelligence, data analysis, and software testing, I focus on bridging academic insights with real-world applications. When I'm not working or studying, you'll find me training for triathlons.
+Hello! I'm Simon, a PhD candidate with a background in software engineering, exploring the intersection of automotive testing and artificial intelligence. My research focuses on anomaly detection in time series, and I am passionate about applying machine learning and data science to solve complex problems. Outside of research, I enjoy pushing my limits through triathlon training.

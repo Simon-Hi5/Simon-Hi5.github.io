@@ -21,7 +21,7 @@ title                    : &name "Simon Hirner"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : *name
-description              : "My personal website showcasing my projects and research."
+description              : "My personal website."
 url                      : "https://simonhirner.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Simon-Hi5/Simon-Hi5.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,25 +115,21 @@ analytics:
 author:
   name             : *name
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Software Engineering Student" # "PhD Candidate | AI-Based Testing | Software Engineer"
+  bio              : "PhD Candidate"
   location         : "Munich"
-  employer         : # e.g. "Red Brick University"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:simon.hirner99@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://simonhirner.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Simon-Hi5"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/simon-hirner/"
-    - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0009-0009-4995-4079"
+    - label: "University"
+      icon: "fas fa-fw fa-building-columns"
+      url: "https://www.ipvs.uni-stuttgart.de/institute/team/Hirner/"
+    # - label: "ORCID"
+    #   icon: "fab fa-fw fa-orcid"
+    #   url: "https://orcid.org/0009-0009-4995-4079"
 
 # Collections
 collections:
